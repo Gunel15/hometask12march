@@ -1,0 +1,15 @@
+C:\Users\V&V\source\repos\12march\12march\bin\Debug\net8.0\12march.exe
+C:\Users\V&V\source\repos\12march\12march\bin\Debug\net8.0\12march.deps.json
+C:\Users\V&V\source\repos\12march\12march\bin\Debug\net8.0\12march.runtimeconfig.json
+C:\Users\V&V\source\repos\12march\12march\bin\Debug\net8.0\12march.dll
+C:\Users\V&V\source\repos\12march\12march\bin\Debug\net8.0\12march.pdb
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.AssemblyInfoInputs.cache
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.AssemblyInfo.cs
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.csproj.CoreCompileInputs.cache
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.dll
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\refint\12march.dll
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.pdb
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.genruntimeconfig.cache
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\ref\12march.dll
+C:\Users\V&V\source\repos\12march\12march\obj\Debug\net8.0\12march.sourcelink.json

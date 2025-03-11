@@ -14,9 +14,19 @@
 
 
 
-int num1 = 2, num2 = 3 , sum;
-if (num1%2==0 && num2%2==0)
-{ Console.WriteLine(sum=num1+num2); }
-else { Console.WriteLine("daxil olunan ededler yalnishdir!"
-    ); }
+//int num1 = 2, num2 = 3 , sum;
+//if (num1%2==0 && num2%2==0)
+//{ Console.WriteLine(sum=num1+num2); }
+//else { Console.WriteLine("daxil olunan ededler yalnishdir!"
+//    ); }
 
+;
+
+int num = 89;
+if(num >=91 )
+{ Console.WriteLine("A"); }
+else if (num >= 81)
+{
+    Console.WriteLine("B");
+}
+else { Console.WriteLine("C"); }

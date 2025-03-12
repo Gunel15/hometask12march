@@ -21,6 +21,7 @@
 //    ); }
 
 using System.ComponentModel.Design;
+using System.Diagnostics.CodeAnalysis;
 
 ;
 
@@ -54,7 +55,13 @@ using System.ComponentModel.Design;
 //Console.WriteLine(sum);
 
 
-int[] arr = { 1, 2, 3, 4, 5 };
+//int[] arr = { 1, 2, 3, 4, 5 };
+//for (int i = 0; i < arr.Length; i++)
+//    if (arr[i] %2== 0)
+//    { Console.WriteLine(arr[i]); }
+
+
+int[] arr = { 1, 2, 3, 4, 5 };int sum=0, midsum;
 for (int i = 0; i < arr.Length; i++)
-    if (arr[i] %2== 0)
-    { Console.WriteLine(arr[i]); }
+{ sum += arr[i]; };
+{ Console.WriteLine(midsum = sum / arr.Length); }

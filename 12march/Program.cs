@@ -33,8 +33,20 @@ using System.ComponentModel.Design;
 //}
 //else { Console.WriteLine("C"); }
 
-int num=28;
-if ((num % 10) > (num / 10))
-{
-    Console.WriteLine("teklik mertebesi boyukdur");
-}else { Console.WriteLine("onluq mertebesi boyukdur"); }
+//int num=28;
+//if ((num % 10) > (num / 10))
+//{
+//    Console.WriteLine("teklik mertebesi boyukdur");
+//}else { Console.WriteLine("onluq mertebesi boyukdur"); }
+
+
+
+int x = 1, y = 1;
+for ( int i=1; i<10; i++);
+int z = y; y = x + y;x = z;
+{ Console.WriteLine("y"); }
+
+
+int[] array, sum;
+for (int i = 0; i <arrayLength; i++) ;
+    

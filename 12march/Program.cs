@@ -72,8 +72,16 @@ using System.Diagnostics.CodeAnalysis;
 //{ Console.WriteLine(arr[i]); }
 
 
-int[] arr = { 1, 2, 3, 4, 5, }; int max = arr[0];
-for (int i = 0; i < arr.Length; i++)
-    if (arr[i] > max)
-    { max = arr[i]; }
-    { Console.WriteLine(max); }
+//int[] arr = { 1, 2, 3, 4, 5, }; int max = arr[0];
+//for (int i = 0; i < arr.Length; i++)
+//    if (arr[i] > max)
+//    { max = arr[i]; }
+//    { Console.WriteLine(max); }
+
+
+
+int A = 5, B = 10, C = 15;
+if (A %5==0 )
+if (B %5==0 )
+if (C %5==0 )
+        { Console.WriteLine(A+B+C); }

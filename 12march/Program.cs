@@ -48,7 +48,13 @@ using System.ComponentModel.Design;
 
 
 
-int[] arr = { 1, 2, 3, 4, 5, 6, 7 }; int sum=0;
-for (int i=0; i<arr.Length; i++)
-    { sum += arr[i]; }
-Console.WriteLine(sum);
+//int[] arr = { 1, 2, 3, 4, 5, 6, 7 }; int sum=0;
+//for (int i=0; i<arr.Length; i++)
+//    { sum += arr[i]; }
+//Console.WriteLine(sum);
+
+
+int[] arr = { 1, 2, 3, 4, 5 };
+for (int i = 0; i < arr.Length; i++)
+    if (arr[i] %2== 0)
+    { Console.WriteLine(arr[i]); }
